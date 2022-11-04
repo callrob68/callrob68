@@ -3,8 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/callrob68)  
 
-<script src="https://embed.smartframe.io/9ea8092d716b95599a3c5e8fc350ffb8.js" data-image-id="00589313" data-width="100%" data-max-width="1500px"></script>
-
 Minden Pictures is recognized globally for its premium collection of wildlife and nature stock photos and feature stories. Our coverage includes key aspects of natural history, biodiversity and endangered species from all continents including many remote and isolated regions.
 
 We also feature images of human interaction with the natural world highlighting natural science and conservation research, environmental issues, indigenous peoples and eco travel. 
