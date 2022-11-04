@@ -2,6 +2,13 @@
 ![Hello There](https://t3.ftcdn.net/jpg/02/37/57/40/360_F_237574042_UUqnYdNfjWZMdCoZuvsZmHcfDCmC36nN.jpg)
 
 
+Minden Pictures is recognized globally for its premium collection of wildlife and nature stock photos and feature stories. Our coverage includes key aspects of natural history, biodiversity and endangered species from all continents including many remote and isolated regions.
+
+We also feature images of human interaction with the natural world highlighting natural science and conservation research, environmental issues, indigenous peoples and eco travel. 
+
+ Our customers include leading book and magazine publishers, calendar companies and conservation non-profits world-wide. 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/callrob68)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pg/MindenPictures/photos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/minden_pictures//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mindenpictures)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.mindenpictures.com/)  
